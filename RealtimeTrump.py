@@ -16,10 +16,10 @@ import pickle
 
 
 ## YOUR CREDENTIALS COME HERE
-consumer_key = "tRH05ZepzkAocgU6ZNAl4ujwT"
-consumer_secret = "JBPPO9WaLCTLkBzrfrEvn1Im2UObHTm7Tbn9ymPcXNmuBi5S0e"
-access_key = "1296200444-blj1g6xeKVixMsNrrHXmgHJ4YMA29j2XOJsNNkN"
-access_secret = "G5pfTuiN9u8ZeV80SVtfqzQrA8QOey70fH2s9P7ICuekD"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 hashtags = ['#donaldtrump', '#trump', '#makeamericagreatagain', '#trump2016', '#americafirst', '#maga', '#tcot', '#trumptrain', '#votetrump2016',  '#republicans', '#realdonaldtrump', '#crookedhilary', '#moretrustedthanhillary', '#ccot', '#neverhilary']
 users_registered_to_service = [["Christina", "christinastat@student.ie.edu", ['HarryWalker220', 'StreetrunnerGee', 'HarryWalker220', 'idktony530', 'rainbowcatband', 'Kush_aagr', 'aghayev_rafig', 'DavinaMorgan6', 'edag15', 'haiiro1100', 'BRODG24', 'duguran_nicole', 'jeremiah11703', 'estgreenspirit', 'RoryFleming8A', 'GeoffreyKisur', 'YahBoyTomBrady', 'jackjj06', 'manpreeeett_', 'DRE13WLA']],
